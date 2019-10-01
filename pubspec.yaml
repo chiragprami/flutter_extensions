@@ -1,8 +1,8 @@
 name: extensions
-description: A new Flutter plugin.
-version: 0.0.1
-author:
-homepage:
+description: A new Flutter extension plugin.
+version: 1.0.0
+author: chiragrami1994@gmail.com
+homepage: https://github.com/chiragprami/flutter_extensions/tree/master
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
