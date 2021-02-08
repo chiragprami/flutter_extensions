@@ -34,10 +34,10 @@ A new Flutter Extension plugin.
    context.redirectTo(child: NewScreen());
 ```
 
-## Redirect Only It's Clear back stack widget and starting from this screen(PUSH ONLY)
+## PUSH ONLY 
 
 ```html
-   context.redirectOnly(child: NewScreen());
+   context.redirectOnly(child: HomeScreen());
 ```
 
 ## HideKeyboard
@@ -53,5 +53,4 @@ A new Flutter Extension plugin.
 
 ```
 
-## Context Extension:
 
