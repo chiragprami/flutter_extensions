@@ -114,7 +114,7 @@ extension ContextExtension on BuildContext {
     return result;
   }
 
-   Future<dynamic> openDialog(Widget child) async {
+   Future<dynamic> openDialog({@required Widget child}) async {
     var result = showDialog(
         barrierDismissible: true,
         context: this,

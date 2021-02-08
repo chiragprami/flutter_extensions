@@ -47,7 +47,7 @@ class _MyAppState extends State<MyApp> {
     context.hideKeyboard();
 
     /// open Full Screen Dialog with transparent background
-    context.hideKeyboard();
+    context.openDialog(child: NewScreen());
   }
 
   get easyText => context.easyText(
