@@ -30,19 +30,19 @@ A new Flutter Extension plugin.
    context.redirectTo(child: NewScreen());
 ```
 
-### PUSH ONLY 
+### Push only:
 
 ```html
    context.redirectOnly(child: HomeScreen());
 ```
 
-### HideKeyboard
+### HideKeyboard:
 
 ```html
    context.hideKeyboard();
 ```
 
-## openDialog
+## Dialog:
 
 ```html
    context.openDialog(child: NewScreen());
