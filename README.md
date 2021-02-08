@@ -2,11 +2,7 @@
 
 A new Flutter Extension plugin.
 
-## Getting Started
-
-
-
-## String Extension:
+### String Extension:
 
 ```html
    var email = "chiragprami@gmail.com";
@@ -28,19 +24,19 @@ A new Flutter Extension plugin.
     var isValidPercentage = userProfile.isPercentage();
 ```
 
-## Redirect screen:
+### Redirect screen:
 
 ```html
    context.redirectTo(child: NewScreen());
 ```
 
-## PUSH ONLY 
+### PUSH ONLY 
 
 ```html
    context.redirectOnly(child: HomeScreen());
 ```
 
-## HideKeyboard
+### HideKeyboard
 
 ```html
    context.hideKeyboard();
