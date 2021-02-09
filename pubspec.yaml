@@ -1,7 +1,6 @@
 name: extensions
 description: A new Flutter extension plugin.
 version: 1.0.0
-author: chiragrami1994@gmail.com
 homepage: https://github.com/chiragprami/flutter_extensions/tree/master
 
 environment:
